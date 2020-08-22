@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## APIs Used
+For COVID data: https://disease.sh/
+For Map data: https://www.openstreetmap.org/
+
 ## Available Scripts
 
 In the project directory, you can run:
