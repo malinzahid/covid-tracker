@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## APP IS LIVE :
+https://covid-19-tracker-bb5d0.web.app/
+
 ## APIs Used
 For COVID data: https://disease.sh/
 For Map data: https://www.openstreetmap.org/
